@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" height="300" width="1600" src="https://github.com/SRV1030/SRV1030/blob/main/hub.png">
+<img align="center" alt="Coding" height="300" width="1600" src="https://github.com/SRV1030/SRV1030/blob/main/hub%20(1).png">
 
 <h1 align="center">Hi 👋, I'm Sourabh Shah.</h1>
  <h3 align="center">Currently an undergrad stdent <a href="http://www.nits.ac.in/">@NITSILCHAR</a></h3>

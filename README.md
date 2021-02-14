@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<h2>I am a Full Stack Web Developer , Cross-Platform App-Developer , Robotics and Competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I beleive in growth lies in knowledge and have fallen in love with technology.</h2>
+<h2>I am a Full Stack Web Developer , Cross-Platform App-Developer , Robotics and Competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I beleive growth lies in knowledge and have fallen in love with technology.</h2>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srv1030&label=Profile%20views&color=0e75b6&style=flat" alt="srv1030" /> </p>
@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/srv_1030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srv_1030" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sourabh shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabh shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sourabh-shah-1b6225192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabh shah" height="30" width="40" /></a>
 <a href="https://instagram.com/_s.rv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s.rv_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shahsourabh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shahsourabh11" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srv1030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="srv1030" height="30" width="40" /></a>

@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shahsourabh11@gmail.com**
 
-- 🤵 Here's my [Resume](https://drive.google.com/file/d/1PZlZR7Y8kxV7nb1uwFwh5k4-LWC89NW3/view?usp=sharing)
+- 🤵 Here's my [Resume](https://drive.google.com/file/d/1yf4FzBELjeTI7tZFDQbjLSUx3OouTzQk/view?usp=sharing)
 
 
 

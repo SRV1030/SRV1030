@@ -46,7 +46,7 @@
 <a href="https://instagram.com/_s.rv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s.rv_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shahsourabh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shahsourabh11" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srv1030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="srv1030" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srv1030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="srv1030" height="30" width="40" /></a>
+<a href="https://leetcode.com/srv_er" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="srv1030" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shahsourabh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shahsourabh11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shahsourabh11/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shahsourabh11/profile" height="30" width="40" /></a>
 </p>

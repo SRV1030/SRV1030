@@ -39,6 +39,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srv1030&" alt="srv1030" /></p> 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SRV1030&theme=react-dark&area=true&hide_border=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/srv_1030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srv_1030" height="30" width="40" /></a>

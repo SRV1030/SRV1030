@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srv1030&label=Profile%20views&color=0e75b6&style=flat" alt="srv1030" /> </p>
 
 
-- 🔭 I’m currently working on [Evx-App](https://github.com/SRV1030/evx-App)
+- 🔭 I’m currently working on [DAPP-ForYou](https://github.com/SRV1030/DAPP-ForYou)
 
 - 🌱 I’m currently learning **DAPP using  blockchain system**
 

@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<h2>I am a Full Stack Web Developer , Mobile App-Developer , Blockchain Developer, Robotics and Competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and have fallen in love with technology.</h2>
+<h2>I am a Full Stack Web Developer , Mobile App-Developer , Blockchain Developer, Robotics and Competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process.</h2>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srv1030&label=Profile%20views&color=0e75b6&style=flat" alt="srv1030" /> </p>

@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" height="300" width="1600" src="https://github.com/SRV1030/SRV1030/blob/main/hub%20(5).png">
 
 <h1 align="center">Hi 👋, I'm Sourabh Shah.</h1>
- <h3 align="center">Currently an undergrad stdent <a href="http://www.nits.ac.in/">@NITSILCHAR</a></h3>
+ <h3 align="center">Currently Software Engineer IC-2 <a href="https://www.servicenow.com/">@SERVICENOW</a></h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 

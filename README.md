@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<h2>I am a Full Stack Web Developer , Mobile App-Developer , Blockchain Developer, Robotics and Competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process.</h2>
+<h2>I am a Software Engineer (IC2) at ServiceNow, where I specialize in backend optimization, scalable UI development, and Governance, Risk, and Compliance (GRC) solutions. I work extensively with C++, Java, Python, JavaScript, and ServiceNow, building high-performance systems such as multi-threaded event-driven pipelines, fiscal year metric engines, and mathematical expression parsers with deep visualization capabilities. My background spans full-stack development, blockchain applications, and AI/ML tools, strengthened through diverse internships in India, Taiwan, and Nepal. I was a Smart India Hackathon finalist and received the ServiceNow Llama Award (Q4 2024). Beyond engineering, I enjoy leading entrepreneurial initiatives, competing in robotics, and creating innovative projects that merge technology with real-world impact.</h2>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srv1030&label=Profile%20views&color=0e75b6&style=flat" alt="srv1030" /> </p>
@@ -18,11 +18,9 @@
 
 - 📝 I regularly write articles on [https://srv04.wordpress.com/2021/01/25/the-vague-cocoon/](https://srv04.wordpress.com/2021/01/25/the-vague-cocoon/)
 
-- 💬 Ask me about **Web and Mobile-App Development**
+- 💬 Ask me about **Software Development**
 
-- 📫 Please reach out to me on **shahsourabh11@gmail.com**
-
-- 🤵 Here's my [Resume](https://drive.google.com/file/d/1AoBOQEtG0SLBs_LZFWX6_xiYcWBnfTlz/view?usp=sharing)
+- 📫 Please reach out to me on **shahsourabh107@gmail.com**
 
 
 

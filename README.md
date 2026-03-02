@@ -195,13 +195,6 @@ timeline
 
 <div align="center">
 
-
-
-<!-- ================= INTERNAL CONTRIBUTION GRID ================= -->
-<img src="https://ghchart.rshah.org/58A6FF/SRV1030" alt="GitHub Contribution Graph"/>
-
-<br/><br/>
-
 <!-- ================= STREAK ================= -->
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SRV1030&theme=tokyonight&hide_border=true&background=0D1117"/>
 
@@ -240,8 +233,6 @@ timeline
 <div align="center">
   
 [![LeetCode](https://img.shields.io/badge/LeetCode-1800%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/srv_er)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shahsourabh11)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/srv1030)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shahsourabh11/profile)
 
 </div>

@@ -6,7 +6,8 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Optimization+Specialist;Blockchain+%26+Web3+Developer;GenAI+%26+Automation+Enthusiast;GRC+Solutions;Full-Stack+Engineer;Competitive+Programmer;LeetCode+1800%2B+Rating" alt="Typing SVG" />
+    <!-- ================= HEADER ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Fullstack+%7C+GRC;Blockchain+%26+Web3+Developer;GenAI+%26+Automation+Builder;Competitive+Programmer+%7C+1800%2B+LeetCode" />
   </a>
 </div>
 
@@ -29,14 +30,14 @@
 
 ### 🚀 About Me
 
-I'm a **Software Engineer (IC2)** at **[ServiceNow](https://www.servicenow.com/)**, specializing in **high-performance Fullstack systems**, **event-driven architectures**, and **Governance, Risk & Compliance (GRC)** solutions.
+I'm a **Software Engineer (IC2)** at **[ServiceNow](https://www.servicenow.com/)**, building **high-performance full-stack platforms** and **event-driven architectures**, focused on enhancing **system scalability**, optimizing performance, and delivering **enterprise-grade software solutions**.
 
 🔹 **Performance Optimization**: Achieved **30% faster execution** through query optimization & multi-threading  
 🔹 **System Design**: Built fiscal year engines processing **1M+ metrics**  
 🔹 **Innovation**: Built expression parsers with **50+ level visualization**  
 🔹 **GenAI Pioneer**: Building automation tools using Windsurf AI  
 
-**Currently exploring**: Blockchain DApps, GenAI automation, distributed systems.
+**Currently exploring**: ML/AI, GenAI automation, distributed systems.
 
 </td>
 
@@ -180,7 +181,7 @@ timeline
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **ForYou** | Blockchain-based DApp for decentralized fundraising with 100% transparency | React, Next.js, Web3.js, Solidity, Node.js | [Repo](https://github.com/SRV1030/DAPP-ForYou) |
-| **CryptD** | Flutter-based encryption & privacy tool for secure file sharing | Flutter, Dart, C++, Express.js, MongoDB | [Repo](#) |
+| **CryptD** | Flutter-based encryption & privacy tool for secure file sharing | Flutter, Dart, C++, Express.js, MongoDB | [Repo](https://github.com/SRV1030/CryptD) |
 | **Expression Visualizer** | Interactive mathematical expression tree renderer (50+ levels) | JavaScript, ServiceNow, Seismic UI | Internal |
 | **GRC Spreadsheet** | High-performance spreadsheet component with cyclic JSON handling | ServiceNow, Seismic UI | Internal |
 
@@ -193,16 +194,22 @@ timeline
 
 
 <div align="center">
-  
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRV1030&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
-</div>
 
-<div align="center">
-  
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRV1030&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=FF6B6B&point=36BCF7" alt="Activity Graph" />
+
+<!-- ================= INTERNAL CONTRIBUTION GRID ================= -->
+<img src="https://ghchart.rshah.org/58A6FF/SRV1030" alt="GitHub Contribution Graph"/>
+
+<br/><br/>
+
+<!-- ================= STREAK ================= -->
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SRV1030&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br/>
+
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRV1030&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 

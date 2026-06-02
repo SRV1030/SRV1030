@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <!-- ================= HEADER ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Fullstack+%7C+GRC;Blockchain+%26+Web3+Developer;GenAI+%26+Automation+Builder;Competitive+Programmer+%7C+2060%2B+LeetCode+Knight" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Fullstack+%7C+GRC;Blockchain+%26+Web3+Developer;GenAI+%26+Automation+Builder;Rating+2060%2B+LeetCode+Knight" />
   </a>
 </div>
 

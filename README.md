@@ -232,7 +232,7 @@ timeline
 
 <div align="center">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-2060%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/srv-er)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2194%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/srv-er)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shahsourabh11/profile)
 
 </div>

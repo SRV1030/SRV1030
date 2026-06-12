@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <!-- ================= HEADER ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Fullstack+%7C+GRC;Blockchain+%26+Web3+Developer;GenAI+%26+Automation+Builder;Rating+2060%2B+LeetCode+Knight" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Fullstack+%7C+GRC;Blockchain+%26+Web3+Developer;GenAI+%26+Automation+Builder;Rating+2194%2B+LeetCode+Guardian" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=SRV1030&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Engineering-blue?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-success?style=flat-square" alt="Location" />
- <img src="https://img.shields.io/badge/Experience-2.9%2B%20Years-orange?style=flat-square" alt="Experience" />
+ <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat-square" alt="Experience" />
 </div>
 
 <br/>
@@ -216,7 +216,7 @@ timeline
 | 🏅 Award | 📅 Year | 📝 Details |
 |----------|---------|------------|
 | **ServiceNow Llama Award** | 2024 | Q4 2024 - Exceptional performance & contributions |
-| **LeetCode 2060+ Rating** | 2026 | Global Rank 2414 - Top 1.8% problem solver |
+| **LeetCode 2194+ Rating - Guardian** | 2026 | Global Rank 2369 - Top 0.94% problem solver |
 | **Smart India Hackathon Finalist** | 2022 | National level finalist among 10000+ teams |
 | **Int. Robotics Yantra 5.0** | 2020 | **Winner** - International robotics competition |
 | **Study In India Scholarship** | 2019 | Full bright scholarship for B.Tech at NIT Silchar |
